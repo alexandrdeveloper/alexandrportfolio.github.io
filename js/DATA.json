@@ -1,0 +1,65 @@
+{
+    "project0" : {
+        "thumbnailUrl" : "img/portoflio/apa-service-page.jpg",
+        "imageUrl" : "img/portoflio/alexhost/devices.png",
+        "name" : "Apa Service",
+        "sortKey" : "html",
+        "category" : "HTML/CSS",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam quisquam explicabo excepturi corporis alias similique eos vitae doloremque nemo rerum?",
+        "pages" : {
+            "Home" : "https://learn.javascript.ru/object",
+            "About" : "https://learn.javascript.ru/object",
+            "Contacts" : "https://learn.javascript.ru/object"
+        }
+    },
+    "project1" : {
+        "thumbnailUrl" : "img/portoflio/apa-service-page.jpg",
+        "imageUrl" : "img/portoflio/alexhost/devices.png",
+        "name" : "Apa Service",
+        "sortKey" : "html",
+        "category" : "HTML",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam quisquam explicabo excepturi corporis alias similique eos vitae doloremque nemo rerum?",
+        "pages" : {
+            "Home" : "https://learn.javascript.ru/object",
+            "About" : "https://learn.javascript.ru/object",
+            "Contacts1" : "https://learn.javascript.ru/object",
+            "Contacts2" : "https://learn.javascript.ru/object",
+            "Contacts3" : "https://learn.javascript.ru/object",
+            "Contacts4" : "https://learn.javascript.ru/object",
+            "Contacts5" : "https://learn.javascript.ru/object",
+            "Contacts6" : "https://learn.javascript.ru/object",
+            "Contacts7" : "https://learn.javascript.ru/object",
+            "Contacts8" : "https://learn.javascript.ru/object",
+            "Contacts9" : "https://learn.javascript.ru/object",
+            "Contacts10" : "https://learn.javascript.ru/object",
+            "Contacts11" : "https://learn.javascript.ru/object"
+        }
+    },
+    "project2" : {
+        "thumbnailUrl" : "img/portoflio/apa-service-page.jpg",
+        "imageUrl" : "img/portoflio/alexhost/devices.png",
+        "name" : "Apa Service",
+        "sortKey" : "wordpress",
+        "category" : "Wordpress",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam quisquam explicabo excepturi corporis alias similique eos vitae doloremque nemo rerum?",
+        "pages" : {
+            "Home" : "https://learn.javascript.ru/object",
+            "About" : "https://learn.javascript.ru/object",
+            "Contacts" : "https://learn.javascript.ru/object"
+        }
+    },
+    "project3" : {
+        "thumbnailUrl" : "img/portoflio/apa-service-page.jpg",
+        "imageUrl" : "img/portoflio/alexhost/devices.png",
+        "name" : "Apa Service",
+        "sortKey" : "wordpress",
+        "category" : "Wordpress",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam quisquam explicabo excepturi corporis alias similique eos vitae doloremque nemo rerum?",
+        "pages" : {
+            "Home" : "https://learn.javascript.ru/object",
+            "About" : "https://learn.javascript.ru/object",
+            "Contacts" : "https://learn.javascript.ru/object"
+        }
+    }
+    
+}
