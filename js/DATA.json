@@ -1,65 +1,187 @@
 {
     "project0" : {
-        "thumbnailUrl" : "img/portoflio/apa-service-page.jpg",
+        "thumbnailUrl" : "img/portoflio/alexhost/alexhost-mockup.jpg",
         "imageUrl" : "img/portoflio/alexhost/devices.png",
-        "name" : "Apa Service",
+        "name" : "AlexHost",
         "sortKey" : "html",
-        "category" : "HTML/CSS",
-        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam quisquam explicabo excepturi corporis alias similique eos vitae doloremque nemo rerum?",
+        "category" : "Convertion Psd to HTML",
+        "description" : "Website of the company AlexHost, which provides hosting services. I had converted Psd to mobile friendly html template using bootstrap grid, jQuery library. This projects includes 9 pages.",
         "pages" : {
-            "Home" : "https://learn.javascript.ru/object",
-            "About" : "https://learn.javascript.ru/object",
-            "Contacts" : "https://learn.javascript.ru/object"
+            "Home page" : "https://alexandrdeveloper.github.io/alexhostertemplate/",
+            "Unlimited hosting" : "https://alexandrdeveloper.github.io/alexhostertemplate/dedicated.html",
+            "VPS-hosting" : "https://alexandrdeveloper.github.io/alexhostertemplate/vpshosting.html",
+            "Tariff plans" : "https://alexandrdeveloper.github.io/alexhostertemplate/webhosting.html",
+            "About company" : "https://alexandrdeveloper.github.io/alexhostertemplate/about.html",
+            "Contacts" : "https://alexandrdeveloper.github.io/alexhostertemplate/contacts.html",
+            "News" : "https://alexandrdeveloper.github.io/alexhostertemplate/news.html",
+            "Single post" : "https://alexandrdeveloper.github.io/alexhostertemplate/post.html",
+            "Order page" : "https://alexandrdeveloper.github.io/alexhostertemplate/order.html"
         }
     },
     "project1" : {
-        "thumbnailUrl" : "img/portoflio/apa-service-page.jpg",
-        "imageUrl" : "img/portoflio/alexhost/devices.png",
-        "name" : "Apa Service",
+        "thumbnailUrl" : "img/portoflio/limbacity/limbacity-mockup.jpg",
+        "imageUrl" : "img/portoflio/limbacity/devices.png",
+        "name" : "Limba.City",
         "sortKey" : "html",
-        "category" : "HTML",
-        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam quisquam explicabo excepturi corporis alias similique eos vitae doloremque nemo rerum?",
+        "category" : "Convertion Figma to HTML",
+        "description" : "Online store of building tools and materials. I had converted Psd to mobile friendly html template using Bootstrap 4 grid, jQuery library. This projects includes 10 pages.",
         "pages" : {
-            "Home" : "https://learn.javascript.ru/object",
-            "About" : "https://learn.javascript.ru/object",
-            "Contacts1" : "https://learn.javascript.ru/object",
-            "Contacts2" : "https://learn.javascript.ru/object",
-            "Contacts3" : "https://learn.javascript.ru/object",
-            "Contacts4" : "https://learn.javascript.ru/object",
-            "Contacts5" : "https://learn.javascript.ru/object",
-            "Contacts6" : "https://learn.javascript.ru/object",
-            "Contacts7" : "https://learn.javascript.ru/object",
-            "Contacts8" : "https://learn.javascript.ru/object",
-            "Contacts9" : "https://learn.javascript.ru/object",
-            "Contacts10" : "https://learn.javascript.ru/object",
-            "Contacts11" : "https://learn.javascript.ru/object"
+            "Home page" : "https://alexandrdeveloper.github.io/limbacitytemplate/",
+            "Order page" : "https://alexandrdeveloper.github.io/limbacitytemplate/order.html",
+            "Posts" : "https://alexandrdeveloper.github.io/limbacitytemplate/stati.html",
+            "Single post " : "https://alexandrdeveloper.github.io/limbacitytemplate/statja.html",
+            "Product page" : "https://alexandrdeveloper.github.io/limbacitytemplate/tovar.html",
+            "Product list page" : "https://alexandrdeveloper.github.io/limbacitytemplate/tovari.html",
+            "Sign Up " : "https://alexandrdeveloper.github.io/limbacitytemplate/registration.html",
+            "Account – Personal data " : "https://alexandrdeveloper.github.io/limbacitytemplate/account-personal.html",
+            "Account - Order management" : "https://alexandrdeveloper.github.io/limbacitytemplate/account-order.html",
+            "Price" : "https://alexandrdeveloper.github.io/limbacitytemplate/account-price.html"
         }
     },
     "project2" : {
-        "thumbnailUrl" : "img/portoflio/apa-service-page.jpg",
-        "imageUrl" : "img/portoflio/alexhost/devices.png",
-        "name" : "Apa Service",
-        "sortKey" : "wordpress",
-        "category" : "Wordpress",
-        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam quisquam explicabo excepturi corporis alias similique eos vitae doloremque nemo rerum?",
+        "thumbnailUrl" : "img/portoflio/yudji/yudji-mockup.jpg",
+        "imageUrl" : "img/portoflio/yudji/devices.png",
+        "name" : "Online Marathon \"Lose weight by summer\"",
+        "sortKey" : "html",
+        "category" : "Convertion Figma to HTML",
+        "description" : "The theme of the site is a weight loss marathon. It combines an online store and a blog. The design of the site has a pleasant color palette, is well structured, well-designed in terms of UI / UX. I had converted to HTML 16 pages with adaptation for mobile devices according to the Psd layout. On the pages you will see interactive elements such as accordions, sliders, filters.",
         "pages" : {
-            "Home" : "https://learn.javascript.ru/object",
-            "About" : "https://learn.javascript.ru/object",
-            "Contacts" : "https://learn.javascript.ru/object"
+            "Home Page" : "https://alexandrdeveloper.github.io/yudji/",
+            "About Author" : "https://alexandrdeveloper.github.io/yudji/about_author.html",
+            "Articles" : "https://alexandrdeveloper.github.io/yudji/author.html",
+            "Blog" : "https://alexandrdeveloper.github.io/yudji/blog.html",
+            "Store" : "https://alexandrdeveloper.github.io/yudji/magasin.html",
+            "Store List" : "https://alexandrdeveloper.github.io/yudji/magasiny.html",
+            "Single Marathon" : "https://alexandrdeveloper.github.io/yudji/marafon.html",
+            "Marathon List" : "https://alexandrdeveloper.github.io/yudji/marafony.html",
+            "News" : "https://alexandrdeveloper.github.io/yudji/novosti.html",
+            "About Project" : "https://alexandrdeveloper.github.io/yudji/oproekte.html",
+            "Cart" : "https://alexandrdeveloper.github.io/yudji/korzina.html",
+            "Members" : "https://alexandrdeveloper.github.io/yudji/uchasniki.html",
+            "Account" : "https://alexandrdeveloper.github.io/yudji/account.html",
+            "Sign Up" : "https://alexandrdeveloper.github.io/yudji/registration.html",
+            "Feedback" : "https://alexandrdeveloper.github.io/yudji/otsivi.html",
+            "Thank you Page" : "https://alexandrdeveloper.github.io/yudji/spasibo.html"
+            
         }
     },
     "project3" : {
-        "thumbnailUrl" : "img/portoflio/apa-service-page.jpg",
-        "imageUrl" : "img/portoflio/alexhost/devices.png",
-        "name" : "Apa Service",
-        "sortKey" : "wordpress",
-        "category" : "Wordpress",
-        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam quisquam explicabo excepturi corporis alias similique eos vitae doloremque nemo rerum?",
+        "thumbnailUrl" : "img/portoflio/towersmotors/towersmotors-mockup.jpg",
+        "imageUrl" : "img/portoflio/towersmotors/devices.png",
+        "name" : "Towers Motors",
+        "sortKey" : "html",
+        "category" : "Convertion Psd to HTML",
+        "description" : "I converted a Psd to HTML of 17 pages of a website for a car repair and maintenance company. The site has a harmonious, thoughtful and efficient UI. You may notice a lot of visual effects and animations on the pages of the site. ",
         "pages" : {
-            "Home" : "https://learn.javascript.ru/object",
-            "About" : "https://learn.javascript.ru/object",
-            "Contacts" : "https://learn.javascript.ru/object"
+            "Home Page" : "https://alexandrdeveloper.github.io/towersmotors/",
+            "About" : "https://alexandrdeveloper.github.io/towersmotors/about.html",
+            "Articles" : "https://alexandrdeveloper.github.io/yudji/author.html",
+            "Blog" : "https://alexandrdeveloper.github.io/yudji/blog.html",
+            "Store" : "https://alexandrdeveloper.github.io/yudji/magasin.html",
+            "Store List" : "https://alexandrdeveloper.github.io/yudji/magasiny.html",
+            "Single Marathon" : "https://alexandrdeveloper.github.io/yudji/marafon.html",
+            "Marathon List" : "https://alexandrdeveloper.github.io/yudji/marafony.html",
+            "News" : "https://alexandrdeveloper.github.io/yudji/novosti.html",
+            "About Project" : "https://alexandrdeveloper.github.io/yudji/oproekte.html",
+            "Cart" : "https://alexandrdeveloper.github.io/yudji/korzina.html",
+            "Members" : "https://alexandrdeveloper.github.io/yudji/uchasniki.html",
+            "Account" : "https://alexandrdeveloper.github.io/yudji/account.html",
+            "Sign Up" : "https://alexandrdeveloper.github.io/yudji/registration.html",
+            "Feedback" : "https://alexandrdeveloper.github.io/yudji/otsivi.html",
+            "Thank you Page" : "https://alexandrdeveloper.github.io/yudji/spasibo.html"
+            
+        }
+    },
+    "project4" : {
+        "thumbnailUrl" : "img/portoflio/apaservice/apaservice-mockup.jpg",
+        "imageUrl" : "img/portoflio/apaservice/devices.png",
+        "name" : "Apa Service",
+        "sortKey" : "html",
+        "category" : "Convertion Psd to HTML",
+        "description" : "Apa-Service is a cleaning company that specializes in cleaning commercial premises. The main task of this project was to create an HTML template for the main page of an existing site, for subsequent integration into the Wordpress CMS.",
+        "pages" : {
+            "Home Page" : "https://alexandrdeveloper.github.io/apaservice_v_2/",
+            "Single Page" : "https://alexandrdeveloper.github.io/apaservice_v_2/page.html"
+            
+            
+        }
+    },
+    "project5" : {
+        "thumbnailUrl" : "img/portoflio/otdyhkurorttemplate/otdyhkurorttemplate-mockup.jpg",
+        "imageUrl" : "img/portoflio/otdyhkurorttemplate/devices.png",
+        "name" : "Resort Service",
+        "sortKey" : "html",
+        "category" : "Convertion Psd to HTML",
+        "description" : "This site is an online service that will be a great help in choosing a city for travel, choosing a hotel and places to stay. A striking example of a comfortable and at the same time colorful design. A feature of this project is the complete rejection of jQuery, any frameworks, as well as the minimal use of libraries.",
+        "pages" : {
+            "Home Page" : "https://alexandrdeveloper.github.io/otdyhkurorttemplate/",
+            "Catalog" : "https://alexandrdeveloper.github.io/otdyhkurorttemplate/page-catalog.html",
+            "Card" : "https://alexandrdeveloper.github.io/otdyhkurorttemplate/page-object.html"
+            
+            
+        }
+    },
+    "project6" : {
+        "thumbnailUrl" : "img/portoflio/fcoockies/fcoockies-mockup.jpg",
+        "imageUrl" : "img/portoflio/fcoockies/devices.png",
+        "name" : "Landing Page \"Fortune Cookies\"",
+        "sortKey" : "html",
+        "category" : "Convertion Figma to HTML",
+        "description" : "This site is a Landing Page for selling confectionery. The structure of the template allows you to use it for a large number of offers.",
+        "pages" : {
+            "Landing Page" : "https://alexandrdeveloper.github.io/fcookies/"
+            
+        }
+    },
+    "project7" : {
+        "thumbnailUrl" : "img/portoflio/linkage/linkage-mockup.jpg",
+        "imageUrl" : "img/portoflio/linkage/devices.png",
+        "name" : "Landing Page \"Linkage Coin\"",
+        "sortKey" : "html",
+        "category" : "Convertion to HTML",
+        "description" : "Pretty simple and colorful at the same time. So far, this is the fastest order in my execution. Less than 1.5 hours passed from the moment the layout was opened in a graphic editor to the moment the files were transferred to the customer.",
+        "pages" : {
+            "Landing Page" : "https://alexandrdeveloper.github.io/linkage/index.html"
+            
+        }
+    },
+    "project8" : {
+        "thumbnailUrl" : "img/portoflio/galapark/galapark-mockup.jpg",
+        "imageUrl" : "img/portoflio/galapark/devices.png",
+        "name" : "Website \"IGRAI\"",
+        "sortKey" : "wordpress",
+        "category" : "Wordress Development",
+        "description" : "Gala Park is a company that organizes outdoor activities for adults and children. The task of the project was to create a Wordpress theme based on the Psd layout.",
+        "pages" : {
+            "Home Page" : "https://galapark.by/"           
+            
+        }
+    },
+    "project9" : {
+        "thumbnailUrl" : "img/portoflio/igrai/mockup.jpg",
+        "imageUrl" : "img/portoflio/igrai/devices.png",
+        "name" : "Website \"IGRAI\"",
+        "sortKey" : "wordpress",
+        "category" : "Wordress Development",
+        "description" : "Landing page to promote the services of an active recreation club for children and adults. The site was developed by me on a turnkey basis on CMS Wordpress. The highlight of the site is a calculator that allows you to calculate the cost of your vacation as accurately as possible.",
+        "pages" : {
+            "Landing Page" : "https://igrai.by/"           
+            
+        }
+    },
+    "project10" : {
+        "thumbnailUrl" : "img/portoflio/hobj-jnu/mockup.jpg",
+        "imageUrl" : "img/portoflio/hobj-jnu/devices.png",
+        "name" : "Landing Page \"HOBJ-JNU\"",
+        "sortKey" : "html",
+        "category" : "Convertion Figma to HTML",
+        "description" : "Landing Page with a simple but tasty and colorful Mobile-friendly design.",
+        "pages" : {
+            "Landing Page" : "https://alexandrdeveloper.github.io/hobj-jnu-template/app/index.html"           
+            
         }
     }
+
+    
     
 }
