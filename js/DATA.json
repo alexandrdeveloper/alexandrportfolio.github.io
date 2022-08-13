@@ -7,15 +7,15 @@
         "category" : "Convertion Psd to HTML",
         "description" : "Website of the company AlexHost, which provides hosting services. I had converted Psd to mobile friendly html template using bootstrap grid, jQuery library. This projects includes 9 pages.",
         "pages" : {
-            "Home page" : "https://alexandrdeveloper.github.io/alexhostertemplate/",
-            "Unlimited hosting" : "https://alexandrdeveloper.github.io/alexhostertemplate/dedicated.html",
-            "VPS-hosting" : "https://alexandrdeveloper.github.io/alexhostertemplate/vpshosting.html",
-            "Tariff plans" : "https://alexandrdeveloper.github.io/alexhostertemplate/webhosting.html",
-            "About company" : "https://alexandrdeveloper.github.io/alexhostertemplate/about.html",
-            "Contacts" : "https://alexandrdeveloper.github.io/alexhostertemplate/contacts.html",
-            "News" : "https://alexandrdeveloper.github.io/alexhostertemplate/news.html",
-            "Single post" : "https://alexandrdeveloper.github.io/alexhostertemplate/post.html",
-            "Order page" : "https://alexandrdeveloper.github.io/alexhostertemplate/order.html"
+            "Home page" : "https://oleksandrlebdev.github.io/alexhostertemplate/",
+            "Unlimited hosting" : "https://oleksandrlebdev.github.io/alexhostertemplate/dedicated.html",
+            "VPS-hosting" : "https://oleksandrlebdev.github.io/alexhostertemplate/vpshosting.html",
+            "Tariff plans" : "https://oleksandrlebdev.github.io/alexhostertemplate/webhosting.html",
+            "About company" : "https://oleksandrlebdev.github.io/alexhostertemplate/about.html",
+            "Contacts" : "https://oleksandrlebdev.github.io/alexhostertemplate/contacts.html",
+            "News" : "https://oleksandrlebdev.github.io/alexhostertemplate/news.html",
+            "Single post" : "https://oleksandrlebdev.github.io/alexhostertemplate/post.html",
+            "Order page" : "https://oleksandrlebdev.github.io/alexhostertemplate/order.html"
         }
     },
     "project1" : {
@@ -26,16 +26,16 @@
         "category" : "Convertion Figma to HTML",
         "description" : "Online store of building tools and materials. I had converted Psd to mobile friendly html template using Bootstrap 4 grid, jQuery library. This projects includes 10 pages.",
         "pages" : {
-            "Home page" : "https://alexandrdeveloper.github.io/limbacitytemplate/",
-            "Order page" : "https://alexandrdeveloper.github.io/limbacitytemplate/order.html",
-            "Posts" : "https://alexandrdeveloper.github.io/limbacitytemplate/stati.html",
-            "Single post " : "https://alexandrdeveloper.github.io/limbacitytemplate/statja.html",
-            "Product page" : "https://alexandrdeveloper.github.io/limbacitytemplate/tovar.html",
-            "Product list page" : "https://alexandrdeveloper.github.io/limbacitytemplate/tovari.html",
-            "Sign Up " : "https://alexandrdeveloper.github.io/limbacitytemplate/registration.html",
-            "Account – Personal data " : "https://alexandrdeveloper.github.io/limbacitytemplate/account-personal.html",
-            "Account - Order management" : "https://alexandrdeveloper.github.io/limbacitytemplate/account-order.html",
-            "Price" : "https://alexandrdeveloper.github.io/limbacitytemplate/account-price.html"
+            "Home page" : "https://oleksandrlebdev.github.io/limbacitytemplate/",
+            "Order page" : "https://oleksandrlebdev.github.io/limbacitytemplate/order.html",
+            "Posts" : "https://oleksandrlebdev.github.io/limbacitytemplate/stati.html",
+            "Single post " : "https://oleksandrlebdev.github.io/limbacitytemplate/statja.html",
+            "Product page" : "https://oleksandrlebdev.github.io/limbacitytemplate/tovar.html",
+            "Product list page" : "https://oleksandrlebdev.github.io/limbacitytemplate/tovari.html",
+            "Sign Up " : "https://oleksandrlebdev.github.io/limbacitytemplate/registration.html",
+            "Account – Personal data " : "https://oleksandrlebdev.github.io/limbacitytemplate/account-personal.html",
+            "Account - Order management" : "https://oleksandrlebdev.github.io/limbacitytemplate/account-order.html",
+            "Price" : "https://oleksandrlebdev.github.io/limbacitytemplate/account-price.html"
         }
     },
     "project2" : {
@@ -46,22 +46,22 @@
         "category" : "Convertion Figma to HTML",
         "description" : "The theme of the site is a weight loss marathon. It combines an online store and a blog. The design of the site has a pleasant color palette, is well structured, well-designed in terms of UI / UX. I had converted to HTML 16 pages with adaptation for mobile devices according to the Psd layout. On the pages you will see interactive elements such as accordions, sliders, filters.",
         "pages" : {
-            "Home Page" : "https://alexandrdeveloper.github.io/yudji/",
-            "About Author" : "https://alexandrdeveloper.github.io/yudji/about_author.html",
-            "Articles" : "https://alexandrdeveloper.github.io/yudji/author.html",
-            "Blog" : "https://alexandrdeveloper.github.io/yudji/blog.html",
-            "Store" : "https://alexandrdeveloper.github.io/yudji/magasin.html",
-            "Store List" : "https://alexandrdeveloper.github.io/yudji/magasiny.html",
-            "Single Marathon" : "https://alexandrdeveloper.github.io/yudji/marafon.html",
-            "Marathon List" : "https://alexandrdeveloper.github.io/yudji/marafony.html",
-            "News" : "https://alexandrdeveloper.github.io/yudji/novosti.html",
-            "About Project" : "https://alexandrdeveloper.github.io/yudji/oproekte.html",
-            "Cart" : "https://alexandrdeveloper.github.io/yudji/korzina.html",
-            "Members" : "https://alexandrdeveloper.github.io/yudji/uchasniki.html",
-            "Account" : "https://alexandrdeveloper.github.io/yudji/account.html",
-            "Sign Up" : "https://alexandrdeveloper.github.io/yudji/registration.html",
-            "Feedback" : "https://alexandrdeveloper.github.io/yudji/otsivi.html",
-            "Thank you Page" : "https://alexandrdeveloper.github.io/yudji/spasibo.html"
+            "Home Page" : "https://oleksandrlebdev.github.io/yudji/",
+            "About Author" : "https://oleksandrlebdev.github.io/yudji/about_author.html",
+            "Articles" : "https://oleksandrlebdev.github.io/yudji/author.html",
+            "Blog" : "https://oleksandrlebdev.github.io/yudji/blog.html",
+            "Store" : "https://oleksandrlebdev.github.io/yudji/magasin.html",
+            "Store List" : "https://oleksandrlebdev.github.io/yudji/magasiny.html",
+            "Single Marathon" : "https://oleksandrlebdev.github.io/yudji/marafon.html",
+            "Marathon List" : "https://oleksandrlebdev.github.io/yudji/marafony.html",
+            "News" : "https://oleksandrlebdev.github.io/yudji/novosti.html",
+            "About Project" : "https://oleksandrlebdev.github.io/yudji/oproekte.html",
+            "Cart" : "https://oleksandrlebdev.github.io/yudji/korzina.html",
+            "Members" : "https://oleksandrlebdev.github.io/yudji/uchasniki.html",
+            "Account" : "https://oleksandrlebdev.github.io/yudji/account.html",
+            "Sign Up" : "https://oleksandrlebdev.github.io/yudji/registration.html",
+            "Feedback" : "https://oleksandrlebdev.github.io/yudji/otsivi.html",
+            "Thank you Page" : "https://oleksandrlebdev.github.io/yudji/spasibo.html"
             
         }
     },
@@ -73,22 +73,22 @@
         "category" : "Convertion Psd to HTML",
         "description" : "I converted a Psd to HTML of 17 pages of a website for a car repair and maintenance company. The site has a harmonious, thoughtful and efficient UI. You may notice a lot of visual effects and animations on the pages of the site. ",
         "pages" : {
-            "Home Page" : "https://alexandrdeveloper.github.io/towersmotors/",
-            "About" : "https://alexandrdeveloper.github.io/towersmotors/about.html",
-            "Articles" : "https://alexandrdeveloper.github.io/yudji/author.html",
-            "Blog" : "https://alexandrdeveloper.github.io/yudji/blog.html",
-            "Store" : "https://alexandrdeveloper.github.io/yudji/magasin.html",
-            "Store List" : "https://alexandrdeveloper.github.io/yudji/magasiny.html",
-            "Single Marathon" : "https://alexandrdeveloper.github.io/yudji/marafon.html",
-            "Marathon List" : "https://alexandrdeveloper.github.io/yudji/marafony.html",
-            "News" : "https://alexandrdeveloper.github.io/yudji/novosti.html",
-            "About Project" : "https://alexandrdeveloper.github.io/yudji/oproekte.html",
-            "Cart" : "https://alexandrdeveloper.github.io/yudji/korzina.html",
-            "Members" : "https://alexandrdeveloper.github.io/yudji/uchasniki.html",
-            "Account" : "https://alexandrdeveloper.github.io/yudji/account.html",
-            "Sign Up" : "https://alexandrdeveloper.github.io/yudji/registration.html",
-            "Feedback" : "https://alexandrdeveloper.github.io/yudji/otsivi.html",
-            "Thank you Page" : "https://alexandrdeveloper.github.io/yudji/spasibo.html"
+            "Home Page" : "https://oleksandrlebdev.github.io/towersmotors/",
+            "About" : "https://oleksandrlebdev.github.io/towersmotors/about.html",
+            "Articles" : "https://oleksandrlebdev.github.io/yudji/author.html",
+            "Blog" : "https://oleksandrlebdev.github.io/yudji/blog.html",
+            "Store" : "https://oleksandrlebdev.github.io/yudji/magasin.html",
+            "Store List" : "https://oleksandrlebdev.github.io/yudji/magasiny.html",
+            "Single Marathon" : "https://oleksandrlebdev.github.io/yudji/marafon.html",
+            "Marathon List" : "https://oleksandrlebdev.github.io/yudji/marafony.html",
+            "News" : "https://oleksandrlebdev.github.io/yudji/novosti.html",
+            "About Project" : "https://oleksandrlebdev.github.io/yudji/oproekte.html",
+            "Cart" : "https://oleksandrlebdev.github.io/yudji/korzina.html",
+            "Members" : "https://oleksandrlebdev.github.io/yudji/uchasniki.html",
+            "Account" : "https://oleksandrlebdev.github.io/yudji/account.html",
+            "Sign Up" : "https://oleksandrlebdev.github.io/yudji/registration.html",
+            "Feedback" : "https://oleksandrlebdev.github.io/yudji/otsivi.html",
+            "Thank you Page" : "https://oleksandrlebdev.github.io/yudji/spasibo.html"
             
         }
     },
@@ -100,8 +100,8 @@
         "category" : "Convertion Psd to HTML",
         "description" : "Apa-Service is a cleaning company that specializes in cleaning commercial premises. The main task of this project was to create an HTML template for the main page of an existing site, for subsequent integration into the Wordpress CMS.",
         "pages" : {
-            "Home Page" : "https://alexandrdeveloper.github.io/apaservice_v_2/",
-            "Single Page" : "https://alexandrdeveloper.github.io/apaservice_v_2/page.html"
+            "Home Page" : "https://oleksandrlebdev.github.io/apaservice_v_2/",
+            "Single Page" : "https://oleksandrlebdev.github.io/apaservice_v_2/page.html"
             
             
         }
@@ -114,9 +114,9 @@
         "category" : "Convertion Psd to HTML",
         "description" : "This site is an online service that will be a great help in choosing a city for travel, choosing a hotel and places to stay. A striking example of a comfortable and at the same time colorful design. A feature of this project is the complete rejection of jQuery, any frameworks, as well as the minimal use of libraries.",
         "pages" : {
-            "Home Page" : "https://alexandrdeveloper.github.io/otdyhkurorttemplate/",
-            "Catalog" : "https://alexandrdeveloper.github.io/otdyhkurorttemplate/page-catalog.html",
-            "Card" : "https://alexandrdeveloper.github.io/otdyhkurorttemplate/page-object.html"
+            "Home Page" : "https://oleksandrlebdev.github.io/otdyhkurorttemplate/",
+            "Catalog" : "https://oleksandrlebdev.github.io/otdyhkurorttemplate/page-catalog.html",
+            "Card" : "https://oleksandrlebdev.github.io/otdyhkurorttemplate/page-object.html"
             
             
         }
@@ -129,7 +129,7 @@
         "category" : "Convertion Figma to HTML",
         "description" : "This site is a Landing Page for selling confectionery. The structure of the template allows you to use it for a large number of offers.",
         "pages" : {
-            "Landing Page" : "https://alexandrdeveloper.github.io/fcookies/"
+            "Landing Page" : "https://oleksandrlebdev.github.io/fcookies/"
             
         }
     },
@@ -141,7 +141,7 @@
         "category" : "Convertion to HTML",
         "description" : "Pretty simple and colorful at the same time. So far, this is the fastest order in my execution. Less than 1.5 hours passed from the moment the layout was opened in a graphic editor to the moment the files were transferred to the customer.",
         "pages" : {
-            "Landing Page" : "https://alexandrdeveloper.github.io/linkage/index.html"
+            "Landing Page" : "https://oleksandrlebdev.github.io/linkage/index.html"
             
         }
     },
@@ -177,7 +177,7 @@
         "category" : "Convertion Figma to HTML",
         "description" : "Landing Page with a simple but tasty and colorful Mobile-friendly design.",
         "pages" : {
-            "Landing Page" : "https://alexandrdeveloper.github.io/hobj-jnu-template/app/index.html"           
+            "Landing Page" : "https://oleksandrlebdev.github.io/hobj-jnu-template/app/index.html"           
             
         }
     }
